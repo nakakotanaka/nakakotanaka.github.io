@@ -1,8 +1,8 @@
 # About
 
-This is personal website of Kota Nakasato created from Academic Pages template.
+This is personal website of Kota Nakasato created from Academic Pages template. (Still developing.)
 
-<!-- your comment --> ![Academic Pages template example](images/homepage.png "Academic Pages template example")
+<!-- ![Academic Pages template example](images/homepage.png "Academic Pages template example")  --> 
 
 See more info at https://academicpages.github.io/
 
