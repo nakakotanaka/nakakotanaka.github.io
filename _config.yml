@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kota Nakasato Academic website"
+title                    : "Kota Nakasato"
 title_separator          : "-"
 name                     : &name "Kota Nakasato"
 description              : &description "Plant Virology | Molecular Biology | Bioinformatics"
@@ -22,9 +22,9 @@ repository               : "nakakotanaka/nakakotanaka.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kota Nakasato"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "plant virologist with molecular biology & bioinformatics expertise"
+  bio              : "Plant Virology | Molecular Biology | Bioinformatics"
   location         : "MI, US"
   employer         : "Michigan State University"
   uri              : # URL
