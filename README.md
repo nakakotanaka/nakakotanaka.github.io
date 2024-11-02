@@ -2,7 +2,7 @@
 
 This is personal website of Kota Nakasato created from Academic Pages template.
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+<!-- your comment --> ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 See more info at https://academicpages.github.io/
 
