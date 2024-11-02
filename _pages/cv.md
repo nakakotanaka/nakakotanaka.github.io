@@ -19,12 +19,11 @@ Work experience
 * May 2023 - Present: Laboratory Technologists
   * Vetrinary DIagnostic Laboratory, Michigan State University
   * Duties includes: molecular Diagnostic, development of bioinformatics pipeline
-<!-- your comment -->  * Supervisor:
     
 * January 2022 - May 2023: Instructor
   * Biological Sciences Program, Michigan State University
   * Duties included: Lectures, demostration of molecular biology techniques, faciltate student-led research
-<!-- your comment -->  * Supervisor: 
+
   
 Skills
 ======
