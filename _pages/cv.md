@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Plant Biology with Specialization in Ecology, Evolution, and Behavior, Michigan State University, 2022
+* B.S. in Clinical Plant Science, Hosei University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
+* May 2023 - Present: Laboratory Technologists
+  * Vetrinary DIagnostic Laboratory, Michigan State University
+  * Duties includes: molecular Diagnostic, development of bioinformatics pipeline
+  * Supervisor:
+    
+* January 2022 - May 2023: Instructor
+  * Biological Sciences Program, Michigan State University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: 
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Bioinformatics
+  * Language: R, Unix, Python
+  * workflow management
+  * environment management
+  * Phylogenetic analysis
+  * GUI tools: Geneious, CLC genomics workbench
+* Molecular Biology
+  * DNA/RNA extraction, PCR, RT-PCR, Agarose gel electrophoresis, Sanger sequencing 
+* Plant Virology
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
