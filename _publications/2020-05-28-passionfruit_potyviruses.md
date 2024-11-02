@@ -1,9 +1,9 @@
 ---
-title: “First detection of two potyviruses, uraria mosaic virus and passiflora foetida virus Y, from passionfruit in Japan.”
+title: "First detection of two potyviruses, uraria mosaic virus and passiflora foetida virus Y, from passionfruit in Japan."
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The study examined '
+excerpt: 'The study identified two potyviruses infecting passionfruit and characterized their genomes.'
 date: 2020-05-28
 venue: 'Journal of General Plant Pathology'
 slidesurl: 
