@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Plant Biology with Specialization in Ecology, Evolution, and Behavior, Michigan State University, 2022
+* M.S. in Plant Biology with specialization in Ecology, Evolution, and Behavior, Michigan State University, 2022
 * B.S. in Clinical Plant Science, Hosei University, 2019
 
 Work experience
@@ -19,28 +19,27 @@ Work experience
 * May 2023 - Present: Laboratory Technologists
   * Vetrinary DIagnostic Laboratory, Michigan State University
   * Duties includes: molecular Diagnostic, development of bioinformatics pipeline
-  * Supervisor:
+<!-- your comment -->  * Supervisor:
     
 * January 2022 - May 2023: Instructor
   * Biological Sciences Program, Michigan State University
-  * Duties included: Merging pull requests
-  * Supervisor: 
+  * Duties included: Lectures, demostration of molecular biology techniques, faciltate student-led research
+<!-- your comment -->  * Supervisor: 
   
 Skills
 ======
 * Bioinformatics
   * Language: R, Unix, Python
-  * workflow management
-  * environment management
-  * Phylogenetic analysis
-  * GUI tools: Geneious, CLC genomics workbench
+  * workflow management systems, environment management tools, HPCC
+  * Viral metagenomic analysis, Phylogenetic analysis
+  * Variant calling
+  * GUI tools: Geneious, CLC genomics workbench, 
 * Molecular Biology
-  * DNA/RNA extraction, PCR, RT-PCR, Agarose gel electrophoresis, Sanger sequencing 
+  * DNA/RNA extraction, PCR, RT-PCR, Agarose gel electrophoresis, Sanger sequencing, QIAxcel operation
+  * Library preparation for Illumina-based sequencing platform
 * Plant Virology
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-
+  * Maintanance of aphid culture and aphid-borne viruses
+  * Plant virus inoculation with sap, insect, and grafting
 
 Publications
 ======
