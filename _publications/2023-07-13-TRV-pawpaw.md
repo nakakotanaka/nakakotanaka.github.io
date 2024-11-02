@@ -1,7 +1,7 @@
 ---
 title: "First Report of Tobacco Ringspot Virus Infecting Pawpaw Orchard (Asimina triloba (L.) Dunal) in North America."
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2023-07-13-TRV-pawpaw
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
