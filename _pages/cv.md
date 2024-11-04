@@ -29,16 +29,17 @@ Skills
 ======
 * Bioinformatics
   * Language: R, Unix, Python
-  * workflow management systems, environment management tools, HPCC
-  * Viral metagenomic analysis, Phylogenetic analysis
-  * Variant calling
+  * Operation and development of reproducible and scalable bioinformatics pipeline on HPCC
+    * Tools: Nextflow, snakemake, git, conda, “renv” package
+  * Experiences in viral metagenomic analysis, phylogenetic analysis, variant calling analysis
   * GUI tools: Geneious, CLC genomics workbench, 
 * Molecular Biology
   * DNA/RNA extraction, PCR, RT-PCR, Agarose gel electrophoresis, Sanger sequencing, QIAxcel operation
   * Library preparation for Illumina-based sequencing platform
 * Plant Virology
-  * Maintanance of aphid culture and aphid-borne viruses
-  * Plant virus inoculation with sap, insect, and grafting
+  * Maintanance of aphid culture, aphid-borne viruses, and plants
+  * Plant virus inoculation with plant sap, insect, and grafting
+  * Viral particule purification
 
 Publications
 ======
