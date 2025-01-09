@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Kota's personal website!
+### Welcome to my website!
 
-This is Kota's personal website still in development.
+I am currently a laboratory technologist at the Veterinary Diagnostic Laboratory, Michigan State University. \
+My passion lies in research and diagnostics in plant and animal health sciences, with a particular focus on virology. My experience encompasses plant viral disease diagnostics, virome analysis, phylogenetic studies, and the development of bioinformatics pipelines. \
+I aspire to integarte cutting-edge technologies, such as high-throughput sequencing and bioinformatics, to address critical biological questions and develop solutions for challenges in plant and animal health.
