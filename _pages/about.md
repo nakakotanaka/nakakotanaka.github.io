@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
+# Welcome to Kota's personal website!
+
 This is Kota's personal website still in development.
