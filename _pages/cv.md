@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* May 2023 - Present: Laboratory Technologists
-  * Vetrinary DIagnostic Laboratory, Michigan State University
+* May 2023 - Present: Laboratory Technologist
+  * Veterinary Diagnostic Laboratory, Michigan State University
   * Duties includes: molecular Diagnostic, development of bioinformatics pipeline
     
 * January 2022 - May 2023: Instructor
   * Biological Sciences Program, Michigan State University
-  * Duties included: Lectures, demostration of molecular biology techniques, faciltate student-led research
+  * Duties included: Lectures, demonstration of molecular biology techniques, facilitattion of student-led research
 
   
 Skills
@@ -37,9 +37,9 @@ Skills
   * DNA/RNA extraction, PCR, RT-PCR, Agarose gel electrophoresis, Sanger sequencing, QIAxcel operation
   * Library preparation for Illumina-based sequencing platform
 * Plant Virology
-  * Maintanance of aphid culture, aphid-borne viruses, and plants
+  * Maintenance of aphid culture, aphid-borne viruses, and plants
   * Plant virus inoculation with plant sap, insect, and grafting
-  * Viral particule purification
+  * Viral particle purification
 
 Publications
 ======
