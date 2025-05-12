@@ -3,7 +3,7 @@ title: "First Report of Tobacco Ringspot Virus Infecting Pawpaw Orchard (Asimina
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-13-TRV-pawpaw
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper reported the first detection of TRV infecting pawpaw tree in Michigan'
 date: 2024-02-17
 venue: 'Plant Disease'
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://apsjournals.apsnet.org/doi/full/10.1094/PDIS-11-22-2639-PDN?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)'
