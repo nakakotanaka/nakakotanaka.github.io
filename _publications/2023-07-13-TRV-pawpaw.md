@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-07-13-TRV-pawpaw
 excerpt: 'This paper reported the first detection of TRV infecting pawpaw trees in Michigan.'
-date: 2024-02-17
+date: 2023-07-01
 venue: 'Plant Disease'
 paperurl: 'https://doi.org/10.1094/PDIS-11-22-2639-PDN'
 citation: 'Maclot, F., Mandujano, M., Nakasato, K., Byrne, J., Paudel, S., Guyer, D., & Malmstrom, C. M. (2023). First report of Tobacco ringspot virus infecting pawpaw orchard (Asimina triloba) in North America. Plant Disease, 107(7).'
