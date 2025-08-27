@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Microbiology, Iowa State University, In Progress
 * M.S. in Plant Biology with specialization in Ecology, Evolution, and Behavior, Michigan State University, 2022
 * B.S. in Clinical Plant Science, Hosei University, 2019
 
 Work experience
 ======
-* May 2023 - Present: Laboratory Technologist
+* May 2023 - July 2025: Laboratory Technologist
   * Veterinary Diagnostic Laboratory, Michigan State University
   * Duties includes: molecular Diagnostic, development of bioinformatics pipeline
     
